@@ -1,0 +1,5 @@
+SQL Query Result:
+Number of rows: 7
+
+Transformed DataFrame:
+Number of rows: 13
