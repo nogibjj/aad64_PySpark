@@ -3,7 +3,7 @@ PySpark Data Processing
 [![CI](https://github.com/nogibjj/aad64_PySpark/actions/workflows/actions.yml/badge.svg)](https://github.com/nogibjj/aad64_PySpark/actions/workflows/actions.yml)
 
 # Summary:
-This project focuses on utilizing PySpark to perform data processing tasks on a large dataset. Here, a [`Spotify dataset`](https://github.com/nogibjj/aad64_PySpark/songs_normalize.csv) was used. The main objectives are to implement at least one Spark SQL query and one data transformation operation.
+This project focuses on utilizing PySpark to perform data processing tasks on a large dataset. Here, a [`Spotify dataset`](https://github.com/nogibjj/aad64_PySpark/blob/main/songs_normalize.csv) was used. The main objectives are to implement at least one Spark SQL query and one data transformation operation.
 
 # Project Structure:
 ```
